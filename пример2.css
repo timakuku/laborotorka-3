@@ -1,0 +1,55 @@
+table{
+    border: 10px solid ;
+    border-color: rgb(189, 25, 168);
+    font-family: 'Times New Roman', Times, serif;
+    border-spacing: 0;
+    margin: auto;
+}
+th{
+    border: 1px solid ;
+    border-color: rgb(0, 204, 37);
+}
+.yellow{
+    background-color: rgb(255, 234, 5);
+    color: rgb(21, 56, 249);
+}
+img{
+    width: 199px;
+    height: 253px;
+}
+.red{
+    background-color: crimson;
+
+}
+
+
+form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: 0 auto;
+}
+input[type="text"], input[type="email"], input[type="password"], select {
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+}
+input[type="checkbox"], input[type="radio"] {
+    margin-right: 10px;
+}
+label {
+    margin: 5px 0;
+}
+.submit-btn {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.submit-btn:hover {
+    background-color: #45a049;
+}
