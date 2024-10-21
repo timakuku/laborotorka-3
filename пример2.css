@@ -1,0 +1,19 @@
+table{
+    border: 10px solid ;
+    border-color: rgb(189, 25, 168);
+    font-family: 'Times New Roman', Times, serif;
+    border-spacing: 0;
+    margin: auto;
+}
+th{
+    border: 1px solid ;
+    border-color: rgb(0, 204, 37);
+}
+.gray{
+    background-color: rgb(255, 234, 5);
+    color: rgb(21, 56, 249);
+}
+img{
+    width: 199px;
+    height: 253px;
+}
